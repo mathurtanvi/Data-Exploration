@@ -1,1 +1,1 @@
-# Data-Exploration
+Data is explored using sql.
